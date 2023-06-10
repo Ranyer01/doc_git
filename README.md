@@ -15,5 +15,13 @@ git config --global user.email "<seu_email>"
 
 Se atentar no nome do arquivo: ver pontuação, letras
 
-git checkout -b <nome _da_branch>: cria uma nova branch ou ramo
-git merge <nome
+git checkout -b <nome _da_branch>: cria uma nova branch/ramo
+git checkout <nome _da_branch>: Ele adiciona branch atual de outra branch.
+
+git clone <url>: baixa o projeto do repositório.
+git push: Ele envia alteração para o repositório.
+
+git pull: Ele puxa as alterações do repositório.
+
+Possíveis erros:
+403: apagando as credenciais, gerenciamento de credenciais
