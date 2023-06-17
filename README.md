@@ -43,6 +43,10 @@ git push
 ````
 git pull
 ````
+### Painel para visualização das branchs e suas atualizações.
+````
+gitk
+````
 ### ERROS:
 ````
 git config --global user.name "<seu_nome>"
